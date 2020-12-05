@@ -1,0 +1,187 @@
+html {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    color: rgb(79, 78, 78);
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+div.header {
+    background-color: white;
+    width: 100%;
+    height: 200px;
+
+}
+
+div.header-item {
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: 20px;
+    z-index:2;
+    position: relative;
+    text-decoration: none;
+}
+
+div.header-title {
+    font-size: 20;
+    text-align: center;
+}
+
+div.main-page{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 3000px;
+    margin-left: 200px;
+
+}
+
+div.block{
+    width: 650px;;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    height: 6000px;
+
+}
+
+div.container-story{
+    align-items: center;
+    height: 1800px;
+    width:650px;
+    
+}
+
+div.augsburg{
+    background-color: white;
+    width:650px;
+    height:1680px
+}
+
+div.krieg{
+    background-color:white;
+    width:650px;
+    height:1890px
+}
+
+div.ulm{
+    background-color:white;
+    width:650px;
+    height:1850px;
+}
+
+div.ulm_eng{
+    background-color:white;
+    width:650px;
+    height:1750px;
+}
+
+div.familiy{
+    background-color:white;
+    width:650px;
+    height:1400px
+}
+
+div.container-about{
+    align-items: right;
+    align-content: right;
+    height: 400px;
+    width:350px;
+    background-color: white;
+    margin-top: 160px;
+    margin-left: 100px;
+    text-align:justify;
+    line-height: 1.5;
+    
+}
+
+div.first-lines {
+    width: 650px;
+    background-color: white;
+    text-align:justify;
+    line-height: 1.5;
+}
+
+div.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+div.flex-column{
+    display: flex;
+    flex-direction: column;
+
+}
+
+img.logo{
+    width: 450px;
+    height: 300px;
+    align-content: center;
+    align-items: center;
+    margin-top: -80px;
+    margin-left: 500px;
+    margin-bottom: -50px;
+}
+
+img.photo{
+    width: 650px;
+    height: 700px;
+    float: left;
+    vertical-align: middle;
+}
+
+img.profile-pic{
+    width:300px;
+    height:463px;
+}
+
+div.textcontainer{
+    display: flex;
+}
+
+img.button{
+    height: 50px;
+    width: 190px;
+    margin-left: 240px;
+    margin-top:-45px;
+    z-index:3,
+    position:relative;
+}
+
+img.button-english{
+    height: 50px;
+    width: 190px;
+    margin-left: 620px;
+    margin-top:-45px;
+    z-index:3,
+    posi: relative;
+}
+
+img.IG{
+    width: 35px;
+    height: 35px;
+    margin-left: 380px;
+}
+img.linkedin{
+    width: 35px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+img.divider{
+    width: 700px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: -50px;
+}
+
+div.date{
+    margin-left: 255px;
+    margin-top: -33px;
+    font-size: 11;
+    font-weight: bold;
+}
