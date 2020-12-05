@@ -36,12 +36,12 @@ div.main-page{
     display: flex;
     flex-direction: column;
     height: 3000px;
-    margin-left: 200px;
+    margin-left: 150px;
 
 }
 
 div.block{
-    width: 650px;;
+    width: 600px;;
     background-color:white;
     display: flex;
     flex-direction: column;
@@ -90,10 +90,11 @@ div.container-about{
     align-items: right;
     align-content: right;
     height: 400px;
-    width:350px;
+    width:300px;
     background-color: white;
     margin-top: 160px;
     margin-left: 100px;
+    margin-right: 100px;
     text-align:justify;
     line-height: 1.5;
     
@@ -123,7 +124,7 @@ img.logo{
     align-content: center;
     align-items: center;
     margin-top: -80px;
-    margin-left: 500px;
+    margin-left: 350px;
     margin-bottom: -50px;
 }
 
@@ -158,7 +159,7 @@ img.button-english{
     margin-left: 620px;
     margin-top:-45px;
     z-index:3,
-    posi: relative;
+    position: relative;
 }
 
 img.IG{
